@@ -1,0 +1,9 @@
+<?php
+    require_once('config.php');
+    require_once('database.php');
+    require_once('session.php');
+    require_once('category.php');
+    require_once('entry.php');
+    require_once('comment.php');
+    require_once('user.php');
+?>
